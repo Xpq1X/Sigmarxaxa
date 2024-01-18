@@ -1,0 +1,13 @@
+/* Add this to your existing CSS file */
+.carousel-image {
+    max-width: 400px;  /* Adjust the width as needed */
+    height: auto;      /* Maintain aspect ratio */
+}
+
+.container {
+    max-width: 500px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
